@@ -2,11 +2,11 @@
 
 #include "includes.h"
 
-
-#define EXAMPLE_ESP_WIFI_SSID      ""
-#define EXAMPLE_ESP_WIFI_PASS      ""
+/*
+#define EXAMPLE_ESP_WIFI_SSID      "Igbafen's GLO 4G"
+#define EXAMPLE_ESP_WIFI_PASS      "igbafen260426042604"
 #define EXAMPLE_ESP_MAXIMUM_RETRY  5
-
+*/
 
 /* FreeRTOS event group to signal when we are connected*/
 static EventGroupHandle_t s_wifi_event_group;

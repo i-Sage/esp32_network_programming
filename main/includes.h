@@ -10,6 +10,8 @@
 #include "nvs_flash.h"
 #include "lwip/err.h"
 #include "lwip/sys.h"
+#include "lwip/sockets.h"
+#include "driver/gpio.h"
 
 
 
